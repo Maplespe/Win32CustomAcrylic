@@ -51,11 +51,9 @@ Windows SDK 10.0.18362.0
 ```
 
 ## Tested
-Windows 10 1809 17763.737
-
-Windows 10 2004 19041.208
-
-Windows 11 21H2 22000.556
+- Windows 10 1809 17763.737
+- Windows 10 2004 19041.208
+- Windows 11 21H2 22000.556
 
 Other versions are not tested, and theoretically support win10 1703 at least
 

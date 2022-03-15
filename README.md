@@ -50,6 +50,16 @@ Visual Studio 2019
 Windows SDK 10.0.18362.0
 ```
 
+## Tested
+Windows 10 1809 17763.737
+
+Windows 10 2004 19041.208
+
+Windows 11 21H2 22000.556
+
+Other versions are not tested, and theoretically support win10 1703 at least
+
+其他版本未测试 理论上应该最低支持Win10 1703版本
 ## Airspace Issue
 acrylic effect is rendered using direct composition, So it always cause [Airspace Issue](https://github.com/dotnet/wpf/issues/152)
 
